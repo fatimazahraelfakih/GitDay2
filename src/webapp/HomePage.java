@@ -10,4 +10,8 @@ public class HomePage {
 
     // logo
 
+    // sdd more things
+
+    // footer
+
 }
